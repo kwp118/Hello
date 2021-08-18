@@ -1,0 +1,34 @@
+{
+  "data_type": "uint16",
+  "mesh": "mesh_mip_0_err_40",
+  "num_channels": 1,
+  "scales": [
+    {
+      "chunk_sizes": [
+        [
+          64,
+          64,
+          64
+        ]
+      ],
+      "encoding": "raw",
+      "key": "50_12.5_12.5",
+      "resolution": [
+        50,
+        12,
+        12
+      ],
+      "size": [
+        128,
+        512,
+        512
+      ],
+      "voxel_offset": [
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "type": "segmentation"
+}
